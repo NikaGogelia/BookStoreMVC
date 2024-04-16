@@ -4,6 +4,9 @@
 	{
 		ICategoryRepository Category { get; }
 		IProductRepository Product { get; }
+		ICompanyRepository Company { get; }
+		IShoppingCartRepository ShoppingCart { get; }
+		IApplicatioUserRepository ApplicatioUser { get; }
 		void Save();
 	}
 }

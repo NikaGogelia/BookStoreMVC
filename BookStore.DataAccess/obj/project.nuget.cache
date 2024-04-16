@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2w1+2MbSE+aspWa5oZXr2NQwa1PIsit+UFSNzozzEqeiFgJClTARPOFgK5OQ/JlGipq9P0aUNVSCuf+RYYX3VA==",
+  "dgSpecHash": "qBbIOQ2EqbZ7UYCi+/coDvb1X/O2U4vfhsz5iDI0lPwDNK2gOPcDeH8c1Yp36gEKlxwy4GqhVw7tdPNh/kDz1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\gogel\\Desktop\\Web Projects\\BookStoreWeb\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.3.nupkg.sha512",
+    "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.3\\microsoft.aspnetcore.identity.ui.8.0.3.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
@@ -57,7 +58,8 @@
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
-    "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.3\\microsoft.extensions.fileproviders.embedded.8.0.3.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.3\\microsoft.extensions.identity.core.8.0.3.nupkg.sha512",
     "C:\\Users\\gogel\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.3\\microsoft.extensions.identity.stores.8.0.3.nupkg.sha512",

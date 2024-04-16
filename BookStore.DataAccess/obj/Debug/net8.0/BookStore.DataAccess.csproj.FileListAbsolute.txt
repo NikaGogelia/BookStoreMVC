@@ -17,3 +17,4 @@ C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.DataAccess\obj\Debug\
 C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.pdb
 C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.genruntimeconfig.cache
 C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.DataAccess\obj\Debug\net8.0\ref\BookStore.DataAccess.dll
+C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.sourcelink.json

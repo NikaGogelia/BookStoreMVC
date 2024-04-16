@@ -9,3 +9,5 @@ C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.Utility\obj\Debug\net
 C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.Utility\obj\Debug\net8.0\refint\BookStore.Utility.dll
 C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.pdb
 C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.Utility\obj\Debug\net8.0\ref\BookStore.Utility.dll
+C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.sourcelink.json
+C:\Users\gogel\Desktop\Web Projects\BookStoreWeb\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.csproj.AssemblyReference.cache
